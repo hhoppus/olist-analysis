@@ -296,6 +296,6 @@ These queries demonstrate advanced SQL capabilities including:
 
 
 ## Contact
-For collaboration opportunities, please reach out via symmetry1@live.com
+For collaboration opportunities, reach out via symmetry1@live.com
 
 © 2025 Heath Hoppus
